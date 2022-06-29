@@ -1,0 +1,22 @@
+{
+    "Products": [
+        {
+            "ProductID": 1,
+            "ProductName": "Product 1",
+            "Barcode": "123456789",
+            "Price": 100.0000
+        },
+        {
+            "ProductID": 2,
+            "ProductName": "Product 2",
+            "Barcode": "ABCDEFG",
+            "Price": 150.0000
+        },
+        {
+            "ProductID": 3,
+            "ProductName": "Product 3.",
+            "Barcode": "HIJKLMN",
+            "Price": 200.0000
+        }
+    ]
+}
