@@ -1,0 +1,2 @@
+mongod --storageEngine mmapv1 --dbpath "D:\CODE\PYTHON\EXCEL\code\data\db" --logpath "D:\CODE\PYTHON\EXCEL\code\data\log\MongoDB.log"
+123
